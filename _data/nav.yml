@@ -1,0 +1,42 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: About Us
+  path: about.html
+  section_id: about
+# - name: Services
+#   path: services.html
+#   section_id: services
+# - name: Portfolio
+#   path: portfolio.html
+#   section_id: portfolio
+#   children:
+#     - name: Portfolio
+#       path: portfolio.html
+#     - name: Portfolio item
+#       path: portfolio-item.html
+- name: Strategy
+  path: strategy.html
+  section_id: portfolio
+  children:
+    - name: IMP strategy
+      path: impstrategy.html
+    - name: CTA strategy
+      path: ctastrategy.html
+- name: Demo
+  path: demo.html
+  section_id: portfolio
+  children:
+    - name: IMP demo
+      path: impdemo.html
+    - name: CTA demo
+      path: ctademo.html
+- name: Sign Up
+  path: signup.html
+  section_id: Sign Up
+- name: Log in
+  path: login.html
+  section_id: login
+# - name: Blog
+#   path: blog/
+#   section_id: blog

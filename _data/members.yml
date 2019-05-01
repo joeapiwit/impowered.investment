@@ -1,0 +1,44 @@
+- avatar: images/@stock/member-1.jpg
+  name: It's strategy that matters
+  position: Not just any strategy
+  socials:
+    # - link: http://twitter.com
+    #   icon: twitter
+    # - link: http://facebook.com
+    #   icon: facebook
+  desc:
+    We combine the best trading strategy with custom-made trading tools made solely to boost your profitability.
+- avatar: images/@stock/member-2.jpg
+  name: Never miss a Trade
+  position: Always explored every possible opportunities
+  socials:
+    # - link: http://twitter.com
+    #   icon: twitter
+    # - link: http://facebook.com
+    #   icon: facebook
+    # - link: http://dribbble.com
+    #   icon: dribbble
+  desc:
+    We do not believe that any investor should missed out any single opportunity. We help you to go through every trading opportunities to strike a perfect decision
+- avatar: images/@stock/member-3.jpg
+  name: Profit, profit & profit!
+  position: It's the profit that matters
+  socials:
+    # - link: http://twitter.com
+    #   icon: twitter
+    # - link: http://facebook.com
+    #   icon: facebook
+    # - link: http://tumblr.com
+    #   icon: tumblr
+  desc:
+    Calculate every potential profit for you to choose. You can rest assured that all of your decisions are optimized!
+- avatar: images/@stock/member-4.jpg
+  name: Do the FUN part
+  position: Fast & Always in time
+  socials:
+    # - link: http://twitter.com
+    #   icon: twitter
+    # - link: http://facebook.com
+    #   icon: facebook
+  desc:
+    Simple is perfect. Eliminate all task. Easy to use and to implement 
